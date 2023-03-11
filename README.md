@@ -1,2 +1,2 @@
 # Skies-Utilities
-mod bot for discord
+Moderation bot for discord
